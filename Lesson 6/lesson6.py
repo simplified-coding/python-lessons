@@ -112,6 +112,7 @@ global <όνομα μεταβλητής>
 def my_function():
     global x
     x = "fantastic"
+    print(x)
 
 
 my_function()
